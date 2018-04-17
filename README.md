@@ -1,2 +1,0 @@
-# anyforsoftTrial
-Test project
